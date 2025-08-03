@@ -65,9 +65,6 @@
 
 ---
 
-### 🧠 Final Touch
-> *"Clean code. Clean UI. Built from a small device with big dreams."*
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-hassan-coder-x&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
