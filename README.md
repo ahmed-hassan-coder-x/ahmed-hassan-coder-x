@@ -32,15 +32,41 @@
 
 ### 📱 I Code Using:
 <p align="center">
+  <!-- Sketchware Pro -->
   <a href="https://github.com/Sketchware-Pro/Sketchware-Pro" target="_blank">
     <img src="https://github.com/Sketchware-Pro/Sketchware-Pro/blob/main/assets/Sketchware-Pro.png?raw=true" width="70" title="Sketchware Pro"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  
+  <!-- Android IDE -->
   <a href="https://github.com/AndroidIDEOfficial/AndroidIDE" target="_blank">
     <img src="https://github.com/AndroidIDEOfficial/AndroidIDE/blob/dev/images/icon.png?raw=true" width="70" title="Android IDE"/>
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
 
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="70" title="Android Studio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" title="VS Code"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="70" title="Visual Studio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" title="GitHub"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
