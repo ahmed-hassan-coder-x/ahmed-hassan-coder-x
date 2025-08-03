@@ -25,7 +25,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,java,kotlin,firebase,html,css,js,python,git,github,linux,kali,bash,vscode,visualstudio&theme=dark" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,java,kotlin,firebase,html,css,js,python,git,github,linux,kali,bash,vscode,visualstudio&perline=16&theme=dark" alt="Skill Icons"/>
 </p>
 
 ---
