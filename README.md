@@ -30,7 +30,7 @@
 **🚀 Android Developer & AI Enthusiast**
 - Building next-gen mobile apps with AI integration
 - Specializing in Jetpack Compose & Clean Architecture
-- 
+  
 **💡 Currently Learning:**
 - Advanced Kotlin Coroutines
 - Performance Optimization
