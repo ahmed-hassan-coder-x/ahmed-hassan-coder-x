@@ -41,15 +41,14 @@
 ```kotlin
 class AhmedHassan : AndroidDeveloper {
     val location = "Egypt 🇪🇬"
-    val passion = "Mobile Innovation"
+    val age = "18"
     val expertise = "AI Integration"
     
     fun skills() = listOf(
         "Jetpack Compose",
         "Kotlin & Java",
         "AI Integration",
-        "Clean Architecture",
-        "Mobile-First Development"
+        "Clean Architecture"
     )
     
     fun motto() = "Code. Create. Innovate."
