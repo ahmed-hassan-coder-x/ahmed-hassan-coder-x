@@ -256,8 +256,6 @@ mindmap
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Tomorrow's+Apps+Today+%F0%9F%9A%80;Innovation+Through+Code+%F0%9F%92%A1;Mobile-First%2C+Future-Ready+%F0%9F%8C%9F" alt="Vision Animation" />
 
-### 🌟 **"Transforming Ideas into Digital Reality from the Heart of Egypt"**
-
 ---
 
 ## 🎁 Support My Journey
@@ -271,6 +269,6 @@ mindmap
 
 ---
 
-*🚀 Building the future, one commit at a time | Made with ❤️ by Ahmed Hassan*
+*Made with ❤️ by Ahmed Hassan*
 
 </div>
