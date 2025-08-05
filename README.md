@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Ahmed Hassan
+# Hi 👋, I'm Ahmed Hassan
 ### Android Developer & Mobile Innovation Expert from Egypt 🇪🇬
 
 <div align="center">
@@ -139,8 +139,6 @@ class AhmedHassan : AndroidDeveloper {
 </tr>
 </table>
 
-### 💡 **Revolutionary Approach: Building Professional Apps on Mobile** 📱
-
 </div>
 
 ---
@@ -230,10 +228,10 @@ mindmap
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hassan.dev.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmedCoderX)
-[![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahmed-hassan-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hassan.dev.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmedCoderX)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahmed-hassan-dev)
 
 ### 🤝 **Let's Collaborate On:**
 🚀 **Innovative Android Projects** • 🤖 **AI-Powered Solutions** • 📱 **Mobile Innovation** • 🌟 **Open Source**
