@@ -149,7 +149,7 @@
 ### 💻 **Languages & Achievements**
 
 <!-- خيار 1: الحل الأساسي المحسن -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=10&hide=html,css&custom_title=Top%20Programming%20Languages"/>
+<img width="325" align="center" src="https://edward-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=1.0&count_weight=0.5&exclude_repo=github-readme-stats&private=true" alt="top langs">
 
 <!-- خيار 2: حل بديل بخدمة مختلفة -->
 <!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=10"/> -->
