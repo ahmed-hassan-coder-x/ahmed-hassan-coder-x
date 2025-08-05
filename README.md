@@ -227,7 +227,7 @@ mindmap
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hassan.dev.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmedCoderX)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ahmed-hassan-dev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1392105370843091035)
 
 ### 🤝 **Let's Collaborate On:**
 🚀 **Innovative Android Projects** • 🤖 **AI-Powered Solutions** • 📱 **Mobile Innovation** • 🌟 **Open Source**
