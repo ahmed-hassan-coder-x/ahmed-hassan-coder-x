@@ -264,6 +264,6 @@ If you find my projects helpful or inspiring, consider:
 
 ---
 
-*Made with ❤️ by Ahmed Hassan | Last updated: $(date +'%B %Y')*
+*Made with ❤️ by Ahmed Hassan*
 
 </div>
