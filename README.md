@@ -153,8 +153,7 @@ class AhmedHassan : AndroidDeveloper {
 
 ### 💻 **Languages**
 
-<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&hide_border=true&custom_title=Most%20Used%20Languages"/>-->
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=ahmed-hassan-coder-x&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&hide_border=true&custom_title=Most%20Used%20Languages"/>
 
 ### 📊 **Additional Statistics**
 
