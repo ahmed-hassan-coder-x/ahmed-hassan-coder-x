@@ -1,5 +1,10 @@
 <div align="center">
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20👋,%20Welcome%20to%20my%20profile%20🥰.&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+
+<br/>
+
 # Hi 👋, I'm Ahmed Hassan
 ### Full-Stack Developer & Mobile Innovation Expert from Egypt 🇪🇬
 
