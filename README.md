@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white&logo=github"/></a>
+<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white&logo=egypt"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
@@ -32,25 +32,7 @@
 ## 👨‍💻 About Me
 
 <table align="center" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td width="50%" valign="top">
 
-### 🚀 **Full-Stack Developer & AI Enthusiast**
-```yaml
-Focus Areas:
-  - Building applications with C# & .NET
-  - Creating mobile apps with AI integration  
-  - Specializing in Jetpack Compose & Clean Architecture
-  - Cross-platform development expertise
-
-Currently Learning:
-  - Advanced .NET Core & ASP.NET
-  - Kotlin Coroutines & Flows
-  - Microservices Architecture
-  - Cloud-Native Development
-```
-
-</td>
 <td width="50%" valign="top">
 
 ### 💻 **Code Samples**
