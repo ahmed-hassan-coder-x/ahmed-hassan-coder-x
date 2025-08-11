@@ -1,54 +1,92 @@
 <div align="center">
 
 # Hi 👋, I'm Ahmed Hassan
-### Android Developer & Mobile Innovation Expert from Egypt 🇪🇬
+### Full-Stack Developer & Mobile Innovation Expert from Egypt 🇪🇬
 
 <div align="center">
-<img src="https://flagcdn.com/w320/eg.png" alt="Egypt Flag" width="120" height="80" style="animation: wave 2s ease-in-out infinite; border-radius: 12px; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);"/>
+<img src="https://flagcdn.com/w320/eg.png" alt="Egypt Flag" width="120" height="80" style="border-radius: 15px; box-shadow: 0 12px 40px rgba(255, 0, 0, 0.4); animation: pulse 3s infinite;"/>
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Mobile+Developer+%E2%9A%A1;Jetpack+Compose+Expert+%F0%9F%9A%80;AI+%26+Android+Specialist+%F0%9F%A4%96;Building+Future+Apps+%F0%9F%8C%9F;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing Animation" />
 
 <br/>
 
-[![Egypt](https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
-[![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Jetpack](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![AI](https://img.shields.io/badge/AI_Integrated-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=7AA2F7&center=true&vCenter=true&width=1000&height=80&lines=C%23+%26+.NET+Developer+⚡;Mobile+App+Developer+📱;Jetpack+Compose+Expert+🚀;AI+%26+Android+Specialist+🤖;Building+Future+Apps+🌟;Open+Source+Contributor+💻" alt="Typing Animation" />
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white&logo=github"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+<a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/></a>
+<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/AI_Integrated-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+</div>
 
 </div>
 
 ---
 
-## 🎯 Who Am I?
+<div align="center">
 
-<table>
+## 👨‍💻 About Me
+
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🚀 Android Developer & AI Enthusiast**
-- Building next-gen mobile apps with AI integration
-- Specializing in Jetpack Compose & Clean Architecture
-  
-**💡 Currently Learning:**
-- Advanced Kotlin Coroutines
-- Performance Optimization
+### 🚀 **Full-Stack Developer & AI Enthusiast**
+```yaml
+Focus Areas:
+  - Building applications with C# & .NET
+  - Creating mobile apps with AI integration  
+  - Specializing in Jetpack Compose & Clean Architecture
+  - Cross-platform development expertise
+
+Currently Learning:
+  - Advanced .NET Core & ASP.NET
+  - Kotlin Coroutines & Flows
+  - Microservices Architecture
+  - Cloud-Native Development
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
+### 💻 **Code Samples**
+
+**C# Version:**
+```csharp
+public class AhmedHassan : FullStackDeveloper
+{
+    public string Location => "Egypt 🇪🇬";
+    public int Age => 18;
+    public string[] Skills => new[]
+    {
+        "C# & .NET Core",
+        "ASP.NET Core", 
+        "Kotlin & Android",
+        "Jetpack Compose",
+        "Clean Architecture",
+        "AI Integration"
+    };
+    
+    public string Motto() => "Code. Create. Innovate.";
+}
+```
+
+**Kotlin Version:**
 ```kotlin
 class AhmedHassan : AndroidDeveloper {
     val location = "Egypt 🇪🇬"
-    val age = "18"
-    val expertise = "AI Integration"
-    
-    fun skills() = listOf(
+    val age = 18
+    val skills = listOf(
+        "Kotlin & Android",
         "Jetpack Compose",
-        "Kotlin & Java",
+        "C# & .NET",
+        "Clean Architecture",
         "AI Integration",
-        "Clean Architecture"
+        "Cross-Platform Dev"
     )
     
     fun motto() = "Code. Create. Innovate."
@@ -59,77 +97,87 @@ class AhmedHassan : AndroidDeveloper {
 </tr>
 </table>
 
----
+</div>
 
-## 🛠️ Tech Arsenal
+---
 
 <div align="center">
 
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+## 🛠️ **Technology Stack**
 
-### 🌐 Web & Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 **Backend & Desktop Development**
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&border-radius=10" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+</p>
 
-### 🖥️ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 📱 **Mobile Development**
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+</p>
 
-### 🔧 Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🌐 **Web & Frontend**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### 🖥️ **Operating Systems**
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
+
+### 🔧 **Development Tools**
+<p>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 </div>
 
 ---
 
-## 💻 Development Tools
-
 <div align="center">
+
+## 💻 **Primary Development Environment**
 
 <table>
 <tr>
-<td align="center" width="120">
-<a href="https://github.com/Sketchware-Pro/Sketchware-Pro">
-<img src="https://github.com/Sketchware-Pro/Sketchware-Pro/blob/main/assets/Sketchware-Pro.png?raw=true" width="80"/>
-<br/><b>Sketchware Pro</b>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://github.com/AndroidIDEOfficial/AndroidIDE">
-<img src="https://github.com/AndroidIDEOfficial/AndroidIDE/blob/dev/images/icon.png?raw=true" width="80"/>
-<br/><b>AndroidIDE</b>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://developer.android.com/studio">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="80"/>
-<br/><b>Android Studio</b>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://code.visualstudio.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"/>
-<br/><b>VS Code</b>
-</a>
-</td>
-<td align="center" width="120">
+<td align="center" width="200">
 <a href="https://visualstudio.microsoft.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80"/>
-<br/><b>Visual Studio</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="100" height="100"/>
+<br/><strong>Visual Studio</strong>
+<br/><em>Primary C# IDE</em>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://developer.android.com/studio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="100" height="100"/>
+<br/><strong>Android Studio</strong>
+<br/><em>Mobile Development</em>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100"/>
+<br/><strong>VS Code</strong>
+<br/><em>Multi-Language Editor</em>
 </a>
 </td>
 </tr>
@@ -139,48 +187,58 @@ class AhmedHassan : AndroidDeveloper {
 
 ---
 
-## 📊 GitHub Analytics & Performance
-
 <div align="center">
 
-### 🏆 **Core Statistics**
+## 📊 **GitHub Analytics & Performance Dashboard**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmed-hassan-coder-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-hassan-coder-x&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=00D4FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+### 🏆 **Core Performance Metrics**
 
-### 📈 **Detailed Overview**
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-hassan-coder-x&theme=tokyonight"/>
-
-### 💻 **Languages**
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&hide_border=true&custom_title=Most%20Used%20Languages"/>
-
-### 📊 **Additional Statistics**
-
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmed-hassan-coder-x&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/> -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-hassan-coder-x&repo=ahmed-hassan-coder-x&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
-
-### ⚡ **Annual Activity Timeline**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-hassan-coder-x&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&custom_title=Contribution%20Activity%20Graph"/>
-
-### 🏅 **Achievement Showcase**
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmed-hassan-coder-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8"/>
-
-### 📈 **Profile Metrics Dashboard**
 <table>
 <tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-hassan-coder-x&theme=tokyonight" alt="Stats"/>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-hassan-coder-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&icon_color=7DCFFF&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics&line_height=24" alt="GitHub Stats"/>
 </td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-hassan-coder-x&theme=tokyonight&utc_offset=2" alt="Productive Time"/>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-hassan-coder-x&theme=tokyonight&hide_border=true&border_radius=20&background=1A1B27&stroke=414868&ring=7AA2F7&fire=F7768E&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=565F89" alt="GitHub Streak"/>
 </td>
 </tr>
+</table>
+
+### 🎯 **Detailed Activity Overview**
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-hassan-coder-x&theme=tokyonight" alt="Profile Details"/>
+
+### 💻 **Programming Languages Analysis**
+
+<table>
 <tr>
-<td align="center">
+<td width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=html,css,scss&langs_count=8&layout=compact&theme=tokyonight&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
+</td>
+<td width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&layout=donut&theme=tokyonight&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&custom_title=🎯%20Language%20Distribution" alt="Language Donut"/>
+</td>
+</tr>
+</table>
+
+### 📈 **Annual Contribution Activity**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-hassan-coder-x&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7DCFFF&point=F7768E&area=true&custom_title=📊%20Annual%20Contribution%20Activity%20Graph&area_color=7AA2F720" alt="Activity Graph"/>
+
+### 🏅 **Achievement Showcase**
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmed-hassan-coder-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,MultilanguageUser,PullRequest,Issues" alt="GitHub Trophies"/>
+
+### 📊 **Comprehensive Performance Dashboard**
+<table width="100%">
+<tr>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-hassan-coder-x&theme=tokyonight" alt="GitHub Stats Summary"/>
+</td>
+<td width="25%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-hassan-coder-x&theme=tokyonight&utc_offset=2" alt="Productive Time"/>
+</td>
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-hassan-coder-x&theme=tokyonight" alt="Repos per Language"/>
 </td>
-<td align="center">
+<td width="25%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-hassan-coder-x&theme=tokyonight" alt="Most Commit Language"/>
 </td>
 </tr>
@@ -190,46 +248,72 @@ class AhmedHassan : AndroidDeveloper {
 
 ---
 
-## 🎯 2025 Goals
-
 <div align="center">
+
+## 🎯 **2025 Goals & Development Roadmap**
 
 ```mermaid
 mindmap
   root((Ahmed Hassan 2025))
     🚀 Build
-      AI-Powered Apps
-      Clean Architecture
-      Performance Focus
-    📚 Learn
-      Advanced Kotlin
-      Machine Learning
-      System Design
+      Enterprise C# Apps
+      AI-Powered Mobile Apps  
+      Clean Architecture Solutions
+      Microservices Projects
+    📚 Master
+      Advanced .NET Core
+      Kotlin Coroutines & Flows
+      System Design Patterns
+      Cloud-Native Architecture
     🤝 Contribute
-      Open Source
-      Developer Community
-      Knowledge Sharing
+      Open Source Projects
+      .NET Developer Community
+      Android Development Ecosystem
+      Technical Content Creation
     🌟 Achieve
-      10K+ GitHub Stars
-      Global Recognition
-      Tech Leadership
+      20K+ GitHub Stars
+      Global Developer Recognition
+      Technical Leadership Role
+      Community Impact & Mentorship
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hassan.dev.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-hassan-coder-x)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhmedCoderX)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1392105370843091035)
+## 🌐 **Let's Connect & Collaborate**
 
-### 🤝 **Let's Collaborate On:**
-🚀 **Innovative Android Projects** • 🤖 **AI-Powered Solutions** • 📱 **Mobile Innovation** • 🌟 **Open Source**
+<table>
+<tr>
+<td align="center">
+<a href="mailto:ahmed.hassan.dev.official@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=10" alt="Email"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/ahmed-hassan-coder-x">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+<td align="center">
+<a href="https://t.me/AhmedCoderX">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</td>
+<td align="center">
+<a href="https://discord.com/users/1392105370843091035">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 🤝 **Collaboration Areas**
+<div align="center">
+<strong>🚀 Enterprise C# Applications • 📱 Cross-Platform Mobile Apps • 🤖 AI-Integrated Solutions • 🌟 Open Source Innovation</strong>
+</div>
 
 </div>
 
@@ -237,31 +321,70 @@ mindmap
 
 <div align="center">
 
-## 📈 Profile Stats
+## 📈 **Live Profile Analytics**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed-hassan-coder-x&label=Profile%20Views&color=00D4FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ahmed-hassan-coder-x?label=Followers&style=for-the-badge&color=FF6B6B&logo=github)
-![Stars](https://img.shields.io/github/stars/ahmed-hassan-coder-x?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=star)
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=ahmed-hassan-coder-x&label=Profile%20Views&color=7AA2F7&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/ahmed-hassan-coder-x?label=Followers&style=for-the-badge&color=F7768E&logo=github" alt="Followers"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/ahmed-hassan-coder-x?label=Total%20Stars&style=for-the-badge&color=E0AF68&logo=star" alt="Stars"/>
+</td>
+</tr>
+</table>
 
----
-
-## 💫 Vision
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Tomorrow's+Apps+Today+%F0%9F%9A%80;Innovation+Through+Code+%F0%9F%92%A1;Mobile-First%2C+Future-Ready+%F0%9F%8C%9F" alt="Vision Animation" />
-
----
-
-## 🎁 Support My Journey
-
-⭐ **Star my repositories**  
-🤝 **Contribute to my projects**  
-📢 **Share my work**  
-🌟 **Follow for more innovations**
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-*Made with ❤️ by Ahmed Hassan*
+<div align="center">
+
+## 💫 **Vision & Philosophy**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&height=60&lines=Building+Tomorrow's+Solutions+with+C%23+%26+.NET+🚀;Crafting+Exceptional+Mobile+Experiences+📱;Innovation+Through+Clean+Code+Architecture+💡;Creating+Future-Ready+Applications+🌟" alt="Vision Statement"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎁 **Support My Developer Journey**
+
+<table>
+<tr>
+<td align="center" width="25%">
+⭐<br/><strong>Star Repositories</strong>
+</td>
+<td align="center" width="25%">
+🤝<br/><strong>Contribute to Projects</strong>
+</td>
+<td align="center" width="25%">
+📢<br/><strong>Share My Work</strong>
+</td>
+<td align="center" width="25%">
+🌟<br/><strong>Follow for Updates</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
+
+<br/>
+
+*Crafted with ❤️ by Ahmed Hassan*  
 
 </div>
