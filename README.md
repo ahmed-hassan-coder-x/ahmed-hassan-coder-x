@@ -19,13 +19,13 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white&logo=egypt"/></a>
+<a href="https://en.wikipedia.org/wiki/Egypt"><img src="https://img.shields.io/badge/🇪🇬_Egypt-FF0000?style=for-the-badge&logoColor=white&logo=egypt"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/></a>
-<a href="https://github.com/ahmed-hassan-coder-x"><img src="https://img.shields.io/badge/AI_Integrated-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence_systems_integration"><img src="https://img.shields.io/badge/AI_Integrated-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 </div>
 
 </div>
