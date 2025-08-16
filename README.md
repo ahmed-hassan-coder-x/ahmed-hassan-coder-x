@@ -237,39 +237,6 @@ class AhmedHassan : AndroidDeveloper {
 
 <div align="center">
 
-## 🎯 **2025 Goals & Development Roadmap**
-
-```mermaid
-mindmap
-  root((Ahmed Hassan 2025))
-    🚀 Build
-      Enterprise C# Apps
-      AI-Powered Mobile Apps  
-      Clean Architecture Solutions
-      Microservices Projects
-    📚 Master
-      Advanced .NET Core
-      Kotlin Coroutines & Flows
-      System Design Patterns
-      Cloud-Native Architecture
-    🤝 Contribute
-      Open Source Projects
-      .NET Developer Community
-      Android Development Ecosystem
-      Technical Content Creation
-    🌟 Achieve
-      20K+ GitHub Stars
-      Global Developer Recognition
-      Technical Leadership Role
-      Community Impact & Mentorship
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 **Let's Connect & Collaborate**
 
 <table>
