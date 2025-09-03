@@ -183,7 +183,7 @@ class AhmedHassan : AndroidDeveloper {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-hassan-coder-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&icon_color=7DCFFF&count_private=true&include_all_commits=true&custom_title=📈%20GitHub%20Statistics&line_height=24" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed-hassan-coder-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&icon_color=7DCFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&line_height=24" alt="GitHub Stats"/>
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-hassan-coder-x&theme=tokyonight&hide_border=true&border_radius=20&background=1A1B27&stroke=414868&ring=7AA2F7&fire=F7768E&currStreakLabel=C0CAF5&sideLabels=C0CAF5&dates=565F89" alt="GitHub Streak"/>
@@ -202,13 +202,13 @@ class AhmedHassan : AndroidDeveloper {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&hide=html,css,scss&langs_count=8&layout=compact&theme=tokyonight&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
 </td>
 <td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&layout=donut&theme=tokyonight&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&custom_title=🎯%20Language%20Distribution" alt="Language Donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-hassan-coder-x&layout=donut&theme=tokyonight&border_radius=20&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&hide_border=true&custom_title=Language%20Distribution" alt="Language Donut"/>
 </td>
 </tr>
 </table>
 
 ### 📈 **Annual Contribution Activity**
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-hassan-coder-x&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7DCFFF&point=F7768E&area=true&custom_title=📊%20Annual%20Contribution%20Activity%20Graph&area_color=7AA2F720" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-hassan-coder-x&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=7DCFFF&point=F7768E&area=true&custom_title=Annual%20Contribution%20Activity%20Graph&area_color=7AA2F720" alt="Activity Graph"/>
 
 ### 🏅 **Achievement Showcase**
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ahmed-hassan-coder-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,MultilanguageUser,PullRequest,Issues" alt="GitHub Trophies"/>
