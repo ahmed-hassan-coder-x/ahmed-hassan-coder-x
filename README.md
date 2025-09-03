@@ -9,7 +9,7 @@
 ### Full-Stack Developer & Mobile Innovation Expert from Egypt 🇪🇬
 
 <div align="center">
-<img src="https://flagcdn.com/w320/eg.png" alt="Egypt Flag" width="120" height="80" style="border-radius: 15px; box-shadow: 0 12px 40px rgba(255, 0, 0, 0.4); animation: pulse 3s infinite;"/>
+<a href="https://en.wikipedia.org/wiki/Egypt"><img src="https://flagcdn.com/w320/eg.png" alt="Egypt Flag" width="120" height="80" style="border-radius: 15px; box-shadow: 0 12px 40px rgba(255, 0, 0, 0.4); animation: pulse 3s infinite;"/><a href="https://en.wikipedia.org/wiki/Egypt">
 </div>
 
 <br/>
