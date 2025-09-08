@@ -237,7 +237,7 @@ class AhmedHassan : AndroidDeveloper {
 
 <div align="center">
 
-## 🌐 **Let's Connect & Collaborate**
+## 🌐 **Contact me via 👇**
 
 <table>
 <tr>
@@ -264,11 +264,6 @@ class AhmedHassan : AndroidDeveloper {
 </tr>
 </table>
 
-### 🤝 **Collaboration Areas**
-<div align="center">
-<strong>🚀 Enterprise C# Applications • 📱 Cross-Platform Mobile Apps • 🤖 AI-Integrated Solutions • 🌟 Open Source Innovation</strong>
-</div>
-
 </div>
 
 ---
@@ -290,45 +285,6 @@ class AhmedHassan : AndroidDeveloper {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 **Vision & Philosophy**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&height=60&lines=Building+Tomorrow's+Solutions+with+C%23+%26+.NET+🚀;Crafting+Exceptional+Mobile+Experiences+📱;Innovation+Through+Clean+Code+Architecture+💡;Creating+Future-Ready+Applications+🌟" alt="Vision Statement"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎁 **Support My Developer Journey**
-
-<table>
-<tr>
-<td align="center" width="25%">
-⭐<br/><strong>Star Repositories</strong>
-</td>
-<td align="center" width="25%">
-🤝<br/><strong>Contribute to Projects</strong>
-</td>
-<td align="center" width="25%">
-📢<br/><strong>Share My Work</strong>
-</td>
-<td align="center" width="25%">
-🌟<br/><strong>Follow for Updates</strong>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
